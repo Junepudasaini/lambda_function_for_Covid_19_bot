@@ -1,0 +1,2 @@
+# lambda_function_for_Covid_19_bot
+# lambda_function_for_Covid_19_bot
